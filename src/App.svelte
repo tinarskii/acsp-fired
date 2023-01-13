@@ -53,7 +53,7 @@
     <div class="grid grid-cols-1 h-screen w-screen place-items-center">
         <div class="flex flex-col gap-2">
             <h1 class="md:text-6xl text-3xl font-bold">
-                Who will get fired?
+                Who will be fired?
             </h1>
             <p class="md:text-3xl text-2xl font-bold">
                 ไหนใครจะโดนไล่ออก
